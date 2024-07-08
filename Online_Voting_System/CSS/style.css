@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(45, 112, 48);
+    
+}
+
+#header{
+    padding: 5px;
+    font-family: cursive;
+}
+input{
+    padding: 10px;
+    border-radius: 10px;
+    width: 20%;
+}
+#dropbox{
+    padding: 10px;
+    border-radius: 5px;
+    width: 10%;
+}
+#loginbtn{
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 15px;
+    background-color: rgb(8, 69, 148);
+    color: white;
+
+}
